@@ -1,0 +1,4 @@
+f "abbcccbbb" == "abc"
+f "abbcccbbb" == [ "a" , "bb" , "ccc" , "bbb" ]
+f "abcd" "efgh" == "aebfcgdh"
+
